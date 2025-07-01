@@ -16,3 +16,6 @@ descriptive_statistics.Rmd
 
 # Ignore data prep script
 data_preparation.R
+
+# Other 
+.DS_Store
