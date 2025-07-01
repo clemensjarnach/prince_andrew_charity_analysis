@@ -42,7 +42,7 @@ To reproduce the results, you will need the following datasets:
 - **ppa_list.csv** — Contains information on UK charities formerly patronised by Prince Andrew
 - **did_analysis_data.csv** — Cleaned panel dataset used for the Difference-in-Differences analysis
 
-Alternatively, you can load the data using the  R object: "data.RData"
+Alternatively, you can load the data using the  R object: **data.RData**
 
 Use the script **data-preparation.R** to clean and merge the raw data into analysis-ready format.
 
