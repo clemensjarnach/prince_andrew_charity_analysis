@@ -18,7 +18,6 @@ data_preparation.R
 # Ignore R and RStudio artefacts
 .Rproj.user/
 *.Rhistory
-*.RData
 *.Rproj
 
 # Other
