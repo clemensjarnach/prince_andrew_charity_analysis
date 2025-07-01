@@ -2,7 +2,7 @@
 
 ![Coverage](https://img.shields.io/badge/Purpose-Research-yellow)
 ![R](https://img.shields.io/badge/R-%3E=4.2.0-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Generic badge](https://img.shields.io/badge/License-GNU3.0-purple.svg)](https://shields.io/)
 ![Data: Public](https://img.shields.io/badge/Data-Public-green)
 ![Status: Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
 ![Stage](https://img.shields.io/badge/Stage-Forthcoming-yellowgreen)
