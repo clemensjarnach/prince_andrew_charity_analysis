@@ -1,0 +1,16 @@
+# Ignore private R scripts
+
+# Ignore large data file
+prince_andrew_charity_analysis_DATA.Rdata
+
+# Ignore main analysis script (private)
+prince_andrew_charity_analysis_ANALYSIS.R
+
+# Ignore RStudio project file
+open_source_files.Rproj
+
+# Ignore descriptive stats report
+descriptive_statistics.Rmd
+
+# Ignore data prep script
+data_preparation.R
