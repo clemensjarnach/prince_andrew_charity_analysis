@@ -1,6 +1,8 @@
 # Ignore private R scripts
 
 # Ignore large data file
+did_analysis_data.csv
+ppa_list.csv
 prince_andrew_charity_analysis_DATA.Rdata
 
 # Ignore main analysis script (private)
