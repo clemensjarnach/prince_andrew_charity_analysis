@@ -34,13 +34,11 @@ rm(have, want, junk)
 # Load Data
 # ---------------------------------
 
-data <- read_csv(file = "did_analysis_data.csv")
-df_final <- data
-rm(data)
+load("data.RData")
 
-#AND 
-
-df_PAP <- read_csv(file="ppa_list.csv")
+## OR 
+# df_final <- read_csv(file = "did_analysis_data.csv"). # Uncomment this line if necessary
+# df_PAP <- read_csv(file="ppa_list.csv").              # Uncomment this line if necessary
 
 # ---------------------------------
 # PAP Sample Groups 

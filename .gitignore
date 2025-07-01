@@ -1,11 +1,9 @@
-# Ignore private R scripts
-
 # Ignore large data file
 did_analysis_data.csv
 ppa_list.csv
 prince_andrew_charity_analysis_DATA.Rdata
 
-# Ignore main analysis script (private)
+# Ignore (private) analysis script 
 prince_andrew_charity_analysis_ANALYSIS.R
 
 # Ignore RStudio project file
@@ -17,5 +15,12 @@ descriptive_statistics.Rmd
 # Ignore data prep script
 data_preparation.R
 
-# Other 
-.DS_Store
+# Ignore R and RStudio artefacts
+.Rproj.user/
+*.Rhistory
+*.RData
+*.Rproj
+
+# Other
+*.log
+*.DS_Store
