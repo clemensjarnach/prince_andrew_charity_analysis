@@ -1,6 +1,7 @@
 # Ignore large data file
 did_analysis_data.csv
 ppa_list.csv
+data.RData
 prince_andrew_charity_analysis_DATA.Rdata
 
 # Ignore (private) analysis script 

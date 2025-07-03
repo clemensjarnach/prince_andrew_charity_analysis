@@ -3,7 +3,7 @@
 ![Coverage](https://img.shields.io/badge/Purpose-Research-yellow)
 ![R](https://img.shields.io/badge/R-%3E=4.2.0-blue)
 [![Generic badge](https://img.shields.io/badge/License-GNU3.0-purple.svg)](https://shields.io/)
-![Data: Public](https://img.shields.io/badge/Data-Public-green)
+![Data Status](https://img.shields.io/badge/Data-Available%20on%20Request-lightgrey)
 ![Status: Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
 ![Stage](https://img.shields.io/badge/Stage-Forthcoming-yellowgreen)
 ![DOI](https://zenodo.org/badge/DOI/1234567/zenodo.1234567.svg)
@@ -43,6 +43,8 @@ To reproduce the results, you will need the following datasets:
 - **did_analysis_data.csv** — Cleaned panel dataset used for the Difference-in-Differences analysis
 
 Alternatively, you can load the data using the  R object: **data.RData**
+
+If you require access to the datasets, please email the corresponding author.
 
 Use the script **data-preparation.R** to clean and merge the raw data into analysis-ready format.
 
