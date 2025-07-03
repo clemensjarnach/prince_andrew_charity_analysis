@@ -785,14 +785,14 @@ g_short <- combined_short %>%
 
 g_short
 
-# ggsave(
-#   filename = "g_short.svg",
-#   plot = g_short,
-#   device = "svg",
-#   width = 8,      # specify width in inches
-#   height = 6,     # specify height in inches
-#   dpi = 300       # optional: resolution for rasterized elements
-# )
-# 
+ggsave(
+  filename = "g_short.svg",
+  plot = g_short,
+  device = "svg",
+  width = 6.5,      # specify width in inches
+  height = 3.5,     # specify height in inches
+  dpi = 300       # optional: resolution for rasterized elements
+)
+
 
 
